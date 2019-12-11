@@ -9,15 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brianshimkus/NYU.git"
+    "url": "git+https://github.com/dfeldbaum/netlify-boiler.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/brianshimkus/NYU/issues"
-  },
-  "homepage": "https://github.com/brianshimkus/NYU#readme",
+  "homepage": "https://github.com/dfeldbaum",
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
